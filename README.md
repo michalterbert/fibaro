@@ -3,7 +3,7 @@ Fibaro virtual devices
 
 ## nbox remote control
 Pilot do nbox'a Enigma2:
-- Działanie oparte o interfejs WWW (OpenWebIF)
+- Działanie oparte o interfejs OpenWebif WWW (Open Source Web Interface for Linux Set-Top Box, Version: OWIF 0.1.3)
 - Brak autoryzacji na port 80 dla dekodera
 
 ### Przykłady użycia:
